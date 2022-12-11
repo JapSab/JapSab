@@ -10,6 +10,7 @@
 *  JS Javascript  
     *  Node.js
     *  Express
+    *  JWT
     
 
 * 🐍 Python 
