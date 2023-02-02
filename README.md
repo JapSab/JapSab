@@ -48,4 +48,3 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JapSab&langs_count=6&hide=jupyter%20notebook&theme=radical) 
