@@ -2,34 +2,26 @@
 
 ## ABOUT ME
 
-- 👋 Hi, I’m Saba Japaridze
-- 👀 I’m interested in Web Development (Back-End)
-- 🌱 I’m currently learning Node.js framework and Javascript
-
-
+Welcome to my GitHub profile! I'm Backend developer with a passion for building robust and scalable applications. My expertise lies in working with Javascript/Typescript, Node.js, Express.js, Nest.js, and a variety of databases including Mysql, PostgreSQL, and MongoDB. I have extensive experience working with ORMs such as Sequelize, TypeORM, and Mongoose.
 ## Skills: 
 
-*  JS Javascript  
-    *  Node.js
-    *  Express
-    *  JWT
+   * Javascript/Typescript
+   * Node.js (Express.js, Nest.js)
+  
+  * 🖼️ Databases (SQL/NoSQL)
+    * MongoDB (Mongoose)
+    * MySQL/PostgreSQL (Sequelize/TypeORM
     
-
-* 🐍 Python 
+  * 🐍 Python 
     *  Django
     *  Flask
     *  Numpy
-    
-* 🖼️ Databases (SQL/NoSQL)
-    * MongoDB
-    * MySQL
-    * PostgreSQL
-    
-* 💻 HTML , CSS , 
-* 🗃️ Git
-* 🎨 Photoshop
-* 🌈 Figma
-* 🖖 Canva   
+
+   * 💻 HTML , CSS , 
+   * 🗃️ Git
+   * 🎨 Photoshop
+   * 🌈 Figma
+   * 🖖 Canva   
 
  
 ## contact me:
