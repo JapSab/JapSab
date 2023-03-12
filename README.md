@@ -1,3 +1,5 @@
+![fb5b48cd0d259376d6fcd35ab8404cbf](https://user-images.githubusercontent.com/116835013/224580990-01f7f2e2-2b27-4bb4-8520-6a9fa678318c.gif)
+
 ## ABOUT ME
 
 - 👋 Hi, I’m Saba Japaridze
