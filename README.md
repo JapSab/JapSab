@@ -3,6 +3,9 @@
 ## ABOUT ME
 
 Welcome to my GitHub profile! I'm Backend developer with a passion for building robust and scalable applications. My expertise lies in working with Javascript/Typescript, Node.js, Express.js, Nest.js, and a variety of databases including Mysql, PostgreSQL, and MongoDB. I have extensive experience working with ORMs such as Sequelize, TypeORM, and Mongoose.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6&hide=jupyter%20notebook&show=vue&theme=radical) 
+<br>
 ## Skills: 
 
    * Javascript/Typescript
