@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Backend developer with a passion for building 
 
 ## Skills: 
   
-   * C#/ASP.NET COre
+   * C#/ASP.NET Core
    * Entity Framework, Razor, MVC
   
    * Javascript/Typescript
