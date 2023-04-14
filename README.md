@@ -2,10 +2,13 @@
 
 ## ABOUT ME
 
-Welcome to my GitHub profile! I'm Backend developer with a passion for building robust and scalable applications. My expertise lies in working with Javascript/Typescript, Node.js, Express.js, Nest.js, and a variety of databases including Mysql, PostgreSQL, and MongoDB. I have extensive experience working with ORMs such as Sequelize, TypeORM, and Mongoose.
+Welcome to my GitHub profile! I'm Backend developer with a passion for building robust and scalable applications. My expertise lies in working with Javascript/Typescript, Node.js, Express.js, Nest.js, and a variety of databases including Mysql, PostgreSQL, and MongoDB. I have extensive experience working with ORMs such as Sequelize, TypeORM, and Mongoose. Currently I'm studying c# and ASP.NET Core to further strengthen my proficiency in backend technologies. 
 
 ## Skills: 
-
+  
+   * C#/ASP.NET COre
+   * Entity Framework, Razor, MVC
+  
    * Javascript/Typescript
    * Node.js (Express.js, Nest.js)
   
