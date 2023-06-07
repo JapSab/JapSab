@@ -1,33 +1,9 @@
 ![fb5b48cd0d259376d6fcd35ab8404cbf](https://user-images.githubusercontent.com/116835013/224580990-01f7f2e2-2b27-4bb4-8520-6a9fa678318c.gif)
 
-## ABOUT ME
+About Me
 
-Welcome to my GitHub profile! I'm Backend developer with a passion for building robust and scalable applications. My expertise lies in working with Javascript/Typescript, Node.js, Express.js, Nest.js, and a variety of databases including Mysql, PostgreSQL, and MongoDB. I have extensive experience working with ORMs such as Sequelize, TypeORM, and Mongoose. Currently I'm studying c# and ASP.NET Core to further strengthen my proficiency in backend technologies. 
+Hello there! I'm a software engineer with expertise in a wide range of programming languages and frameworks. My primary focus is on Python, C#, JavaScript, Node.js, .NET, and ASP.NET. I also have extensive experience working with various Python frameworks and APIs.
 
-## Skills: 
-  
-   * C#/ASP.NET Core
-   * Entity Framework, Razor, MVC
-  
-   * Javascript/Typescript
-   * Node.js (Express.js, Nest.js)
-  
-  * 🖼️ Databases (SQL/NoSQL)
-    * MongoDB (Mongoose)
-    * MySQL/PostgreSQL (Sequelize/TypeORM
-    
-  * 🐍 Python 
-    *  Django
-    *  Flask
-    *  Numpy
-
-   * 💻 HTML , CSS , 
-   * 🗃️ Git
-   * 🎨 Photoshop
-   * 🌈 Figma
-   * 🖖 Canva   
-
- 
 ## contact me:
 
 <a href="https://www.linkedin.com/in/saba-japaridzee/">
@@ -36,13 +12,3 @@ Welcome to my GitHub profile! I'm Backend developer with a passion for building 
 <a href="https://instagram.com/saba.japaridzee">
    <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="35px"/>
 </a>
-
-
-
-<br>
-<br>
-<br>
-<br>
-
-
-
