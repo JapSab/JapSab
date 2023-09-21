@@ -2,7 +2,7 @@
 
 About Me
 
-Hello there! I'm a software engineer with expertise in a wide range of programming languages and frameworks. My primary focus is on Python, C#, JavaScript, Node.js, .NET, and ASP.NET. I also have extensive experience working with various Python frameworks and APIs.
+Hello there! I'm a software engineer with expertise in a wide range of programming languages and frameworks. My primary focus is on Python, JavaScript, C#,  Node.js, .NET, and ASP.NET. I also have extensive experience working with various Python frameworks and APIs. Currently studying Linux for future DevOps career.
 
 ## contact me:
 
