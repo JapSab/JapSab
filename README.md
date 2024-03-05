@@ -1,9 +1,6 @@
 ![fb5b48cd0d259376d6fcd35ab8404cbf](https://user-images.githubusercontent.com/116835013/224580990-01f7f2e2-2b27-4bb4-8520-6a9fa678318c.gif)
 
-About Me
-
-Hello there! I'm a software engineer with expertise in a wide range of programming languages and frameworks. My primary focus is on Python, JavaScript, C#,  Node.js, .NET, and ASP.NET. I also have extensive experience working with various Python frameworks and APIs. Currently studying Linux for future DevOps career.
-
+01001000 01100101 01110010 01100101 00100000 01110111 01100001 01110011 00100000 01001010 01100001 01100110 01100001 01110010 01100001
 ## contact me:
 
 <a href="https://www.linkedin.com/in/saba-japaridzee/">
